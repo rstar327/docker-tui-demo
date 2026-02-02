@@ -48,8 +48,8 @@ Visit [docker-tui.vercel.app](https://docker-tui.vercel.app) and create an accou
 ### 2. Install Agent
 
 ```bash
-git clone https://github.com/rstar327/docker-tui.git
-cd docker-tui/agent
+git clone https://github.com/rstar327/docker-tui-demo.git
+cd docker-tui-demo/agent
 pip install -r requirements.txt
 ```
 
@@ -137,7 +137,7 @@ MIT License - feel free to use this project for any purpose.
 ## 🔗 Links
 
 - **Live Application**: [docker-tui.vercel.app](https://docker-tui.vercel.app)
-- **Source Code**: [github.com/rstar327/docker-tui](https://github.com/rstar327/docker-tui)
+- **Agent Source**: [github.com/rstar327/docker-tui-demo](https://github.com/rstar327/docker-tui-demo)
 - **API Docs**: [docker-tui.onrender.com/docs](https://docker-tui.onrender.com/docs)
 
 ## 📧 Contact
