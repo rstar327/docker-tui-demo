@@ -149,3 +149,5 @@ For questions or support, please open an issue on GitHub.
 ---
 
 **Made with ❤️ using FastAPI and Vercel**
+
+### ⭐ Thanks for your star!
