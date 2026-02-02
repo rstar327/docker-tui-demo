@@ -11,8 +11,6 @@ A modern web-based interface for managing Docker containers and images remotely.
 
 **Frontend**: [https://docker-tui.vercel.app](https://docker-tui.vercel.app)
 
-**Admin Panel**: [https://docker-tui-admin-panel.vercel.app](https://docker-tui-admin-panel.vercel.app)
-
 **API Documentation**: [https://docker-tui.onrender.com/docs](https://docker-tui.onrender.com/docs)
 
 ## ✨ Features
@@ -66,17 +64,6 @@ python agent.py --backend https://docker-tui.onrender.com --token YOUR_TOKEN
 ### 4. Manage Containers
 
 Your local Docker containers will appear in the web interface within seconds!
-
-## 📸 Screenshots
-
-### Container Management
-![Containers View](https://via.placeholder.com/800x400/1a1a1a/4ade80?text=Container+Management+View)
-
-### Settings & Agent Registration
-![Settings View](https://via.placeholder.com/800x400/1a1a1a/60a5fa?text=Settings+%26+Agent+Registration)
-
-### Admin Panel
-![Admin Panel](https://via.placeholder.com/800x400/1a1a1a/f59e0b?text=Admin+Panel+-+User+Management)
 
 ## 🛠️ Tech Stack
 
