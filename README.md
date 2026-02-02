@@ -6,7 +6,8 @@ A modern web-based interface for managing Docker containers and images remotely.
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frstar327%2Fdocker-tui-demo&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Views&edge_flat=false)
+![GitHub stars](https://img.shields.io/github/stars/rstar327/docker-tui-demo?style=for-the-badge&logo=github)
+![GitHub forks](https://img.shields.io/github/forks/rstar327/docker-tui-demo?style=for-the-badge&logo=github)
 
 ## 🌐 Live Demo
 
